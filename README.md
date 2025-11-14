@@ -2,7 +2,7 @@
 
 ---
 
-**Source Repository:**  
+**Source Repository and Commit Reference:**  
 https://github.com/philmtd/css-fx-layout/commit/b71ea27615b85a242a67cd0827c2894ec48da441
 
 **Note:**  
