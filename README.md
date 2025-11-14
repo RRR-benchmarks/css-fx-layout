@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository:**  
+https://github.com/philmtd/css-fx-layout/commit/b71ea27615b85a242a67cd0827c2894ec48da441
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 # css-fx-layout 📚
 
 ![GitHub Actions Test](https://github.com/philmtd/css-fx-layout/actions/workflows/test.yml/badge.svg)
